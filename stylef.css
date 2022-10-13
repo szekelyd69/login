@@ -114,3 +114,7 @@ input[type="submit"]:hover{
 .center p{
   text-align:center
 }
+.center .resend_link{
+    text-align:center;
+    padding: 30px
+}
